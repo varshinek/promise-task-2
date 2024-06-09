@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+.title{
+    color: gold;
+}
+h5{
+    color: gold;
+}
+.card{
+    padding: 20% 0% 0% 0%;
+    margin-left: 360px;
+    width: 400px;
+    height: 20px;
+}
+p{
+    padding-bottom: 20px;
+}
